@@ -1,4 +1,4 @@
-## 🔥 jhl8109's Github 🔥
+# 🔥 jhl8109's Github 🔥
 
 ## Education 
 - ### PNU University : 2018 ~ ...
