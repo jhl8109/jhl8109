@@ -1,7 +1,7 @@
 ## 🔥 jhl8109's Github 🔥
 
-** Education ** 
-1. PNU University  2018 ~
+## Education 
+-PNU University : 2018 ~ ...
 
 <hr/>
 
