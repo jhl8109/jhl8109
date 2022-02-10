@@ -24,9 +24,10 @@
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a><br>
+<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 ### I want to learn 🌈
 <a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
+
 
 <hr/>
 
