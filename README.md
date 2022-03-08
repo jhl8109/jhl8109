@@ -12,6 +12,7 @@
 ## Education 
 - PNU University : 2018 ~ ...
 - GDSC Member    : 2021 ~ ...
+- Kaist MadCamp  : 2021.12.28 ~ 2022.01.28
 
 ## Tech Stack
 ### I've done before 👍 
