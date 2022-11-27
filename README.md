@@ -39,7 +39,8 @@
 <span><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=Ethereum&logoColor=white"/></span>
 <br>
 ## 자격증
-Toeic Speacking : Intermediate High
+Toeic Speacking : IH
+SQLD(SQL 개발자)
 <hr/>
 
 
