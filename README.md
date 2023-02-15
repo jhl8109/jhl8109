@@ -9,7 +9,7 @@
 #### Thank You!
 
 
-## Education 
+## History
 - PNU University  : 2018 ~ ...
 - GDSC Member     : 2021.09 ~ 2021.12
 - 제4회 창의융합해커톤 : 2021.05 ~ 2021.09
