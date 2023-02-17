@@ -14,8 +14,15 @@
 - GDSC Member     : 2021.09 ~ 2021.12
 - 제4회 창의융합해커톤 : 2021.05 ~ 2021.09
 - Kaist 몰입캠프    : 2021.12.28 ~ 2022.01.28
+  - 1주차 : 
+  - 2주차 :
+  - 3주차 :
+  - 4주차 :
 - Selab 학부연구생   : 2022.06.21 ~ ... 
-- 스마일게이트 윈터데브캠프(서버) : 2022.11.28 ~ ...
+  - 논문 :
+  - 특허 : https://github.com/jhl8109/smartContractAPI , https://github.com/jhl8109/FabricAPI
+- 스마일게이트 윈터데브캠프(서버) : 2022.11.28 ~ 2023.02.23
+  - 프로젝트 : https://github.com/sgdevcamp2022/plop
 
 ## Tech Stack
 ### I've done before 👍 
@@ -40,7 +47,7 @@
 <br>
 ## 자격증
 Toeic Speacking : IH <br>
-SQLD(SQL 개발자)
+SQL : SQLD (SQL Developer) <br>
 <hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhl8109&&show_icons=true&theme=dark)<br> <br>
