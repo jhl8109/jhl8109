@@ -14,15 +14,12 @@
 - GDSC Member     : 2021.09 ~ 2021.12
 - 제4회 창의융합해커톤 : 2021.05 ~ 2021.09
 - Kaist 몰입캠프    : 2021.12.28 ~ 2022.01.28
-  - 1주차 : 
-  - 2주차 :
-  - 3주차 :
-  - 4주차 :
 - Selab 학부연구생   : 2022.06.21 ~ ... 
-  - 논문 :
+  - 논문 : 소프트웨어 공학회(KCSE) 학술대회 2023 - 허가형 블록체인 환경에서 패브릭 SDK를 확장한 체인코드 배포 기법
   - 특허 : https://github.com/jhl8109/smartContractAPI , https://github.com/jhl8109/FabricAPI
 - 스마일게이트 윈터데브캠프(서버) : 2022.11.28 ~ 2023.02.23
-  - 프로젝트 : https://github.com/sgdevcamp2022/plop
+  - MSA 기반 인증 서버 (개인) : https://github.com/jhl8109/MSA-Auth-Server
+  - 웹 소켓 기반 채팅 앱 (팀) : https://github.com/sgdevcamp2022/plop
 
 ## Tech Stack
 ### I've done before 👍 
