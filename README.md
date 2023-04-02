@@ -1,5 +1,7 @@
 # 🚀 jhl8109's Github 🚀
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jhl8109-Github&fontSize=90" />
+
 ## Introduction
 - I'm interested in Backend and Blockchain Platforms.
 - I like to go for a walk and do fitness.
@@ -46,9 +48,9 @@
 Toeic Speacking : IH <br>
 SQL : SQLD (SQL Developer) <br>
 <hr/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jhl8109)](https://solved.ac/jhl8109) <br> <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhl8109&&show_icons=true&theme=dark)<br> <br>
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjhl8109%2Fhit-counter&count_bg=%2300D4FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)                  
 
