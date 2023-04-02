@@ -1,6 +1,4 @@
-# 🚀 jhl8109's Github 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jhl8109-Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jhl8109%20Github&fontSize=90" />
 
 ## Introduction
 - I'm interested in Backend and Blockchain Platforms.
