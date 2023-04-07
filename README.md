@@ -4,7 +4,6 @@
 - I'm interested in Backend and Blockchain Platforms.
 - I like to go for a walk and do fitness.
 - I'm passionate and planned.
-- I wish I had someone to progamming or study with.
 
 #### Thank You!
 
