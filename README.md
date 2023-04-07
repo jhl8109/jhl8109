@@ -15,7 +15,9 @@
 - Kaist 몰입캠프    : 2021.12.28 ~ 2022.01.28
 - Selab 학부연구생   : 2022.06.21 ~ ... 
   - 논문 : 소프트웨어 공학회(KCSE) 학술대회 2023 - 허가형 블록체인 환경에서 패브릭 SDK를 확장한 체인코드 배포 기법
-  - 특허 : https://github.com/jhl8109/smartContractAPI , https://github.com/jhl8109/FabricAPI
+  - 특허 : 태그 기반 스마트 컨트랙트 관리 시스템 
+    - 프론트엔드 : https://github.com/jhl8109/smartContractAPI 
+    - 백엔드 : https://github.com/jhl8109/FabricAPI 
 - 스마일게이트 윈터데브캠프(서버) : 2022.11.28 ~ 2023.02.23
   - MSA 기반 인증 서버 (개인) : https://github.com/jhl8109/MSA-Auth-Server
   - 웹 소켓 기반 채팅 앱 (팀) : https://github.com/sgdevcamp2022/plop
