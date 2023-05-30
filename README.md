@@ -23,10 +23,10 @@
     - 한국컴퓨터종합학술대회(KCC) 2023 - [허가형 블록체인의 오프체인 데이터 구축 방법](https://github.com/jhl8109/Blockchain-Event-Trace-System)
   - 특허 : [태그 기반 스마트 컨트랙트 관리 시스템](https://github.com/jhl8109/FabricAPI)
 - 스마일게이트 윈터데브캠프(서버) : 2022. 11. 28 ~ 2023. 02. 23
+  - [MSA 기반 채팅 앱(팀 - 게이트웨이, 디스커버리, 인증, 유저 , 푸시 서버)](https://github.com/jhl8109/smilegate-winterdevcamp-plop)
   - [MSA 기반 인증 서버(개인)](https://github.com/jhl8109/MSA-Auth-Server)
-  - [MSA 기반 채팅 앱(팀)](https://github.com/jhl8109/smilegate-winterdevcamp-plop)
-- WebRTC (팀) : 2023. 03 ~ ...
-  - [WebRTC(서버)](https://github.com/jhl8109/SGS-BE)
+- WebRTC : 2023. 03 ~ ...
+  - [WebRTC(팀 - 채팅, 상태관리 서버)](https://github.com/jhl8109/SGS-BE)
 
 ## 🛠️ Tech Stack 
 
