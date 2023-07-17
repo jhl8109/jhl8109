@@ -20,7 +20,7 @@
 - Selab 학부연구생   : 2022. 06. 21 ~ ... 
   - 논문
     - 소프트웨어 공학회 학술대회(KCSE) 2023 - [허가형 블록체인 환경에서 패브릭 SDK를 확장한 체인코드 배포 기법](https://github.com/jhl8109/FabricAPI)
-    - 한국컴퓨터종합학술대회(KCC) 2023 - [허가형 블록체인의 오프체인 데이터 구축 방법](https://github.com/jhl8109/Blockchain-Event-Trace-System)
+    - 한국컴퓨터종합학술대회(KCC) 2023, 학부생부문 최우수상 - [허가형 블록체인의 오프체인 데이터 구축 방법](https://github.com/jhl8109/Blockchain-Event-Trace-System)
   - 특허 : [태그 기반 스마트 컨트랙트 관리 시스템](https://github.com/jhl8109/FabricAPI)
 - 스마일게이트 윈터데브캠프(서버) : 2022. 11. 28 ~ 2023. 02. 23
   - [MSA 기반 채팅 앱(팀 - 게이트웨이, 디스커버리, 인증, 유저 , 푸시 서버)](https://github.com/jhl8109/smilegate-winterdevcamp-plop)
