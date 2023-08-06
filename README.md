@@ -45,7 +45,7 @@
 ## 🪪 Certificate 
 - TOEIC Speacking : IH <br>
 - SQL : SQLD (SQL Developer) <br>
-- 구글 클라우드 스터디잼 : 쿠버네티스 입문/중급
+- 구글 클라우드 스터디잼 : 쿠버네티스(GKE) 입문, 중급, 심화 수료
 <hr/>
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jhl8109&&show_icons=true&theme=dark)<br> <br>
