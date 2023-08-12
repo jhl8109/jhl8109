@@ -1,10 +1,5 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=jhl8109%20Github&fontSize=90"/></p>
 
-## 😃 Introduction
-- I'm interested in Backend and Blockchain Platforms.
-- I like to go for a walk and do fitness.
-- I'm passionate and planned.
-
 ## 🗓️ Activity 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
