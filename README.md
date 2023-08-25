@@ -23,7 +23,7 @@
 - WebRTC : 2023. 03 ~ ...
   - [WebRTC(팀 - 채팅, 상태관리 서버)](https://github.com/jhl8109/SGS-BE)
 
-## 🛠️ Tech Stack 
+<!-- ## 🛠️ Tech Stack 
 
 |Techs that I've used at least once 👍|Techs that I'm focusing on 🔥| Techs that I want to learn 🌈|
 |---|---|---|
@@ -35,6 +35,7 @@
 
 <p align="center"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></p>
 <br>
+-->
 
 ## 🪪 Certificate 
 - TOEIC Speacking : IH <br>
