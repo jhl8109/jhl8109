@@ -21,7 +21,7 @@
   - [MSA 기반 채팅 앱(팀 - 게이트웨이, 디스커버리, 인증, 유저 , 푸시 서버)](https://github.com/jhl8109/smilegate-winterdevcamp-plop)
   - [MSA 기반 인증 서버(개인)](https://github.com/jhl8109/MSA-Auth-Server)
 - WebRTC : 2023. 03 ~ ...
-  - [WebRTC(팀 - 채팅, 상태관리 서버)](https://github.com/jhl8109/SGS-BE)
+  - [WebRTC(팀 - 채팅, 상태관리 서버)](https://github.com/jaehanbyun/SGS-BE)
 
 <!-- ## 🛠️ Tech Stack 
 
