@@ -10,6 +10,7 @@
 | **Research activities** | 2022. 06 ~ 2023. 08(expected) | 학부연구생 | **Pusan National Univ. SE Lab** |
 | **External activities** | 2022. 11. 30 | 부산 지역기술 활성화를 위한 블록체인 해커톤| **Pusan B-Space** |
 | **External activities** | 2022. 12 ~ 2023. 02 | 스마일게이트 윈터데브캠프 plop (BE) | **Smilegate** |
+| **External activities** | 2023. 07 ~ 2023. 10 | 오픈소스 컨트리뷰션 아카데미 - Backend.AI 멘티 | **OSSCA** |
 
 ## 📂 Project
 - Selab 학부연구생   : 2022. 06. 21 ~ 2023. 08. 31 
