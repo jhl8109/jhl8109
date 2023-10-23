@@ -7,7 +7,7 @@
 | **External activities** | 2021. 05 ~ 2021. 09 | 제 4회 창의융합해커톤 - Nutripedia | **Pusan National Univ.** |
 | **External activities** | 2021. 09 ~ 2021. 12 | GDSC PNU | **Pusan National Univ.** |
 | **External activities** | 2021. 12 ~ 2022. 01 | 몰입캠프 - 프로그래밍과 스타트업 | **Kaist & Krafton** |
-| **Research activities** | 2022. 06 ~ 2023. 08(expected) | 학부연구생 | **Pusan National Univ. SE Lab** |
+| **Research activities** | 2022. 06 ~ 2023. 09 | 학부연구생 | **Pusan National Univ. SE Lab** |
 | **External activities** | 2022. 11. 30 | 부산 지역기술 활성화를 위한 블록체인 해커톤| **Pusan B-Space** |
 | **External activities** | 2022. 12 ~ 2023. 02 | 스마일게이트 윈터데브캠프 plop (BE) | **Smilegate** |
 | **External activities** | 2023. 07 ~ 2023. 10 | 오픈소스 컨트리뷰션 아카데미 - Backend.AI 멘티 | **OSSCA** |
