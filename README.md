@@ -3,7 +3,7 @@
 ## 🗓️ Activity 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2018. 03 ~ 2024. 02(expected) | Computer Science and Engineering | **Pusan National Univ.** |
+| **Education** | 2018. 03 ~ 2024. 02 | Computer Science and Engineering | **Pusan National Univ.** |
 | **External activities** | 2021. 05 ~ 2021. 09 | 제 4회 창의융합해커톤 - Nutripedia | **Pusan National Univ.** |
 | **External activities** | 2021. 09 ~ 2021. 12 | GDSC PNU | **Pusan National Univ.** |
 | **External activities** | 2021. 12 ~ 2022. 01 | 몰입캠프 - 프로그래밍과 스타트업 | **Kaist & Krafton** |
@@ -22,7 +22,7 @@
 - 스마일게이트 윈터데브캠프(서버) : 2022. 11. 28 ~ 2023. 02. 23
   - [MSA 기반 채팅 앱(팀 - 게이트웨이, 디스커버리, 인증, 유저 , 푸시 서버)](https://github.com/jhl8109/smilegate-winterdevcamp-plop)
   - [MSA 기반 인증 서버(개인)](https://github.com/jhl8109/MSA-Auth-Server)
-- WebRTC : 2023. 03 ~ ...
+- WebRTC : 2023. 03 ~ 2023. 09
   - [WebRTC(팀 - 채팅, 상태관리 서버)](https://github.com/jaehanbyun/SGS-BE)
 
 <!-- ## 🛠️ Tech Stack 
