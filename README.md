@@ -51,7 +51,7 @@
 <br>
 -->
 
-## 🪪 Certificate 
+## 📑 Certificate 
 - TOEIC Speacking : IH <br>
 - SQL : SQLD (SQL Developer) <br>
 <hr/>
