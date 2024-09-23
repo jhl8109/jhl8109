@@ -3,7 +3,8 @@
 ## 🗓️ Activity 
 | **Type** | **Date** | **Contents** | **Org.** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Work Experience** | 2024.01 ~ Current | UR서비스개발팀 - Server Engineer | **NCSOFT** | 
+| **Work Experience** | 2024.09 ~ Current | 여신플랫폼(자산건전성) - Server Developer | **Toss Bank** | 
+| **Work Experience** | 2024.01 ~ 2024. 09 | UR서비스개발팀 - Server Engineer | **NCSOFT** | 
 | **External activities** | 2023. 07 ~ 2023. 10 | 오픈소스 컨트리뷰션 아카데미 - Backend.AI 멘티 | **OSSCA** |
 | **External activities** | 2022. 12 ~ 2023. 02 | 스마일게이트 윈터데브캠프 plop (BE) | **Smilegate** |
 | **Research activities** | 2022. 06 ~ 2023. 09 | 학부연구생 | **Pusan National Univ. SE Lab** |
