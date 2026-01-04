@@ -23,8 +23,6 @@
 
 
 ## 📂 Project
-- ZZIBU(Tagify) : 2024. 06 ~ Current
-  - [Tagify](https://github.com/ZZIBU/Tagify)
 - WebRTC : 2023. 03 ~ 2023. 09
   - [WebRTC(팀 - 채팅, 상태관리 서버)](https://github.com/jaehanbyun/SGS-BE)
  - 스마일게이트 윈터데브캠프(서버) : 2022. 11. 28 ~ 2023. 02. 23
